@@ -1,2 +1,2 @@
-# hello-world
-Test only
+# Learning Github
+This is a test post to learn Github
